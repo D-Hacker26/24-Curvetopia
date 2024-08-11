@@ -120,3 +120,9 @@ Evaluation will be based on the number of regular shapes identified, symmetry de
 ## Contributing
 
 Feel free to submit issues, feature requests, and pull requests to enhance the functionality of Curvetopia.
+
+## **Contributors**
+
+- Sarthak Verma: [GitHub Profile](https://github.com/sarthakvermaa)
+- Deepanshu Gupta: [GitHub Profile](https://github.com/D-Hacker26)
+- Lavish Meena: [GitHub Profile](https://github.com/lavishmeena2764)
